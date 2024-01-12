@@ -56,7 +56,7 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2024 | **MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance** | Jailbreaking | Post-processing (Detector) | Arxiv | [Link](https://arxiv.org/pdf/2401.02906.pdf) | [Code](https://github.com/pipilurj/MLLM-protector) |
 
 ### Defense Paper 2023
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+| Year   | Title |  Mitigating | Defense Strategy  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection** | Jailbreaking | Pre-/Post-processing (Adding Noise/Detector) | Arxiv | [Link](https://arxiv.org/pdf/2312.10766.pdf) |  |
 | 2023 | **Effective Backdoor Mitigation Depends on the Pre-training Objective** | Backdoor | Finetuning on Clean Data | Arxiv | [Link](https://arxiv.org/pdf/2311.14948.pdf) |  |
