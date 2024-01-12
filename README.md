@@ -31,11 +31,11 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Can Language Models be Instructed to Protect Personal Information?** | Jailbreaking | Black-box | Arxiv | [Link](https://arxiv.org/pdf/2310.02224.pdf) | [Code](https://llm-access-control.github.io/) |
 | 2023 | **Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2310.01651.pdf) | [Code](https://github.com/ys-zong/FoolyourVLLMs) |
 | 2023 | **Black-box Attacks on Image Activity Prediction and its Natural Language Explanations** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2310.00503.pdf) | |
-| 2023 | **Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study** | Membership Inference | Black-box | iccv 2023 |  [Link](https://arxiv.org/pdf/2310.00108.pdf) | |
+| 2023 | **Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study** | Membership Inference | Black-box | ICCV 2023 |  [Link](https://arxiv.org/pdf/2310.00108.pdf) | |
 | 2023 | **How Robust is Google’s Bard to Adversarial Image Attacks?** | Jailbreaking | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2309.11751.pdf) | [Code](https://github.com/thu-ml/Attack-Bard) |
 | 2023 | **Exploring Transferability of Multimodal Adversarial Samples for Vision-Language Pre-training Models with Contrastive Learning** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2308.12636.pdf) | |
 | 2023 | **Adversarial Illusions in Multi-Modal Embeddings** | Misprediction | Grey-box | Arxiv |  [Link](https://arxiv.org/pdf/2308.11804.pdf) | [Code](https://github.com/ebagdasa/adversarial_illusions) |
-| 2023 | **On the Adversarial Robustness of Multi-Modal Foundation Models** | Misgeneration | White-box | iccv 2023 |  [Link](https://arxiv.org/pdf/2308.10741.pdf) | |
+| 2023 | **On the Adversarial Robustness of Multi-Modal Foundation Models** | Misgeneration | White-box | ICCV 2023 |  [Link](https://arxiv.org/pdf/2308.10741.pdf) | |
 | 2023 | **Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models** | Jailbreaking | Grey-box | Arxiv |  [Link](https://arxiv.org/pdf/2307.14539.pdf) | |
 | 2023 | **Are aligned neural networks adversarially aligned?** | Jailbreaking | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2306.15447.pdf) | |
 | 2023 | **Visual Adversarial Examples Jailbreak Aligned Large Language Models** | Jailbreaking | White-box/Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2306.13213.pdf) | [Code](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) |
@@ -56,7 +56,7 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Adversarial Prompt Tuning for Vision-Language Models** | Misprediction | Adversarial Training | Arxiv | [Link](https://arxiv.org/pdf/2311.11261.pdf) | [Code](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning) |
 | 2023 | **Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service** | Model Stealing | Graph Embedding Models | Arxiv | [Link](https://arxiv.org/pdf/2311.05863.pdf) | [Demo](https://github.com/Pter61/vlpmarker) |
 | 2023 | **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** | Backdoor | Adversarial Training | Arxiv | [Link](https://arxiv.org/pdf/2303.06854.pdf) | [Code](https://github.com/BigML-CS-UCLA/RoCLIP) |
-| 2023 | **Bidirectional Contrastive Split Learning for Visual Question Answering** | Backdoor | Robust Training | aaai 24 | [Link](https://arxiv.org/pdf/2208.11435.pdf) |  |
+| 2023 | **Bidirectional Contrastive Split Learning for Visual Question Answering** | Backdoor | Robust Training | AAAI 24 | [Link](https://arxiv.org/pdf/2208.11435.pdf) |  |
 
 ## Surveys
 ### Survey Paper 2023
