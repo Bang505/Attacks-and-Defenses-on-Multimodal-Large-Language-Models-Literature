@@ -1,6 +1,6 @@
 # Attacks and Defenses on Awesome Multimodal Large Language Models Literature
 
-A curated list of attacks and defenses papers on multimodal large language models.
+A curated list of attacks and defenses papers on multimodal large language models (MLLMs).
 
 Papers are sorted by their released dates in descending order.
 
