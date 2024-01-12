@@ -62,4 +62,4 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 ### Survey Paper 2023
 | Year   | Title |  Venue  | Paper Link  |
 |-------|--------|-----------|------------|
-| 2023 | **A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection** | Arxiv | [Link](https://arxiv.org/pdf/2310.10844.pdf)https://arxiv.org/pdf/2310.10844.pdf |
+| 2023 | **A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection** | Arxiv | [Link](https://arxiv.org/pdf/2310.10844.pdf) |
