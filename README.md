@@ -27,7 +27,7 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts** | Jailbreaking | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2311.09127.pdf) | |
 | 2023 | **Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based Wireless Communication Systems** |  |  | Arxiv |  [Link](https://arxiv.org/pdf/2311.00207.pdf) | |
 | 2023 | **Composite Backdoor Attacks Against Large Language Models** | Backdoor |  | Arxiv |  [Link](https://arxiv.org/pdf/2310.07676.pdf) | |
-| 2023 | **VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2310.04655.pdf) | coming soon |
+| 2023 | **VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2310.04655.pdf) | Coming soon |
 | 2023 | **Can Language Models be Instructed to Protect Personal Information?** | Jailbreaking | Black-box | Arxiv | [Link](https://arxiv.org/pdf/2310.02224.pdf) | [Code](https://llm-access-control.github.io/) |
 | 2023 | **Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2310.01651.pdf) | [Code](https://github.com/ys-zong/FoolyourVLLMs) |
 | 2023 | **Black-box Attacks on Image Activity Prediction and its Natural Language Explanations** | Misprediction | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2310.00503.pdf) | |
@@ -40,7 +40,7 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Are aligned neural networks adversarially aligned?** | Jailbreaking | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2306.15447.pdf) | |
 | 2023 | **Visual Adversarial Examples Jailbreak Aligned Large Language Models** | Jailbreaking | White-box/Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2306.13213.pdf) | [Code](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) |
 | 2023 | **On Evaluating Adversarial Robustness of Large Vision-Language Models** | Misgeneration | Black-box | Arxiv |  [Link](https://arxiv.org/pdf/2305.16934.pdf) | [Code](https://yunqing-me.github.io/AttackVLM/) |
-| 2023 | **Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning** | Backdoor |  | Arxiv |  [Link](https://arxiv.org/pdf/2305.04175.pdf) | [coming soon](https://github.com/zhaisf/BadT2I) |
+| 2023 | **Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning** | Backdoor |  | Arxiv |  [Link](https://arxiv.org/pdf/2305.04175.pdf) | [Coming soon](https://github.com/zhaisf/BadT2I) |
 
 ## Defense Papers
 ### Defense Paper 2024
