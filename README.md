@@ -7,11 +7,23 @@ Papers are sorted by their released dates in descending order.
 ## How to Search?
 Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversarial knowledge (e.g., ```Black-box```) over the webpage to quickly locate related papers.
 
+## Quick Links
+**Attack papers sorted by year:** |[2024](#attack-papers-2024) |[2023](#attack-papers-2023) |
+
+**Defense papers sorted by year:** | [2024](#defense-papers-2024) | [2023](#defense-papers-2023) |
+
+**Survey papers sorted by year:** | [2023](#survey-papers-2023) |
+
 ## Attack Papers
+
+<a name="attack-papers-2024" />
+
 ### Attack Paper 2024
 | Year   | Title |  Attack Type |  Adversarial Knowledge |  Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2024 | **Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging** | Misprediction | White-box | Arxiv | [Link](https://arxiv.org/pdf/2401.02565.pdf) | |
+
+<a name="attack-papers-2023" />
 
 ### Attack Paper 2023
 | Year   | Title |  Attack Type |  Adversarial Knowledge |  Venue  | Paper Link  | Code Link |
@@ -43,10 +55,15 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning** | Backdoor |  | Arxiv |  [Link](https://arxiv.org/pdf/2305.04175.pdf) | [Coming soon](https://github.com/zhaisf/BadT2I) |
 
 ## Defense Papers
+
+<a name="defense-papers-2024" />
+
 ### Defense Paper 2024
 | Year   | Title |  Mitigating | Defense Strategy  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2024 | **MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance** | Jailbreaking | Post-processing (Detector) | Arxiv | [Link](https://arxiv.org/pdf/2401.02906.pdf) | [Code](https://github.com/pipilurj/MLLM-protector) |
+
+<a name="defense-papers-2023" />
 
 ### Defense Paper 2023
 | Year   | Title |  Mitigating | Defense Strategy  |   Venue  | Paper Link  | Code Link |
@@ -59,6 +76,9 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Bidirectional Contrastive Split Learning for Visual Question Answering** | Backdoor | Robust Training | AAAI 24 | [Link](https://arxiv.org/pdf/2208.11435.pdf) |  |
 
 ## Surveys
+
+<a name="survey-papers-2023" />
+
 ### Survey Paper 2023
 | Year   | Title |  Venue  | Paper Link  |
 |-------|--------|-----------|------------|
