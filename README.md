@@ -1,17 +1,18 @@
 # Attacks and Defenses on Awesome Multimodal Large Language Models Literature
 
-A curated list of membership inference attacks and defenses papers on machine learning models.
+A curated list of attacks and defenses papers on multimodal large language models.
 
 Papers are sorted by their released dates in descending order.
 
 ## How to Search?
-Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
+Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversarial knowledge (e.g., ```Black-box```) over the webpage to quickly locate related papers.
 
 ## Quick Links
 **Attack papers sorted by year:** |[2024](#attack-papers-2024) |[2023](#attack-papers-2023) |
 
 **Defense papers sorted by year:** | [2024](#defense-papers-2024) | [2023](#defense-papers-2023) |
 
+**Surveys sorted by year:** | [2023](#survey-papers-2023) |
 
 ## Attack Papers
 ### Attack Paper 2024
@@ -19,7 +20,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2024 | **Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging** | Misprediction | White-box | Arxiv | [Link](https://arxiv.org/pdf/2401.02565.pdf) | |
 
-#### Attack Paper 2023
+### Attack Paper 2023
 | Year   | Title |  Attack Type |  Adversarial Knowledge |  Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **Privacy-Aware Document Visual Question Answering** | Membership Inference | White-box | Arxiv |  [Link](https://arxiv.org/pdf/2312.10108.pdf) | |
