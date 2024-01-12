@@ -56,7 +56,7 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 | 2023 | **Adversarial Prompt Tuning for Vision-Language Models** | Misprediction | Adversarial Training | Arxiv | [Link](https://arxiv.org/pdf/2311.11261.pdf) | [Code](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning) |
 | 2023 | **Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service** | Model Stealing | Graph Embedding Models | Arxiv | [Link](https://arxiv.org/pdf/2311.05863.pdf) | [Demo](https://github.com/Pter61/vlpmarker) |
 | 2023 | **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** | Backdoor | Adversarial Training | Arxiv | [Link](https://arxiv.org/pdf/2303.06854.pdf) | [Code](https://github.com/BigML-CS-UCLA/RoCLIP) |
-| 2023 | **Bidirectional Contrastive Split Learning for Visual Question Answering** | Backdoor | Robust Training | aaai 24 | [Link](https://arxiv.org/pdf/2208.11435.pdf)https://arxiv.org/pdf/2208.11435.pdf |  |
+| 2023 | **Bidirectional Contrastive Split Learning for Visual Question Answering** | Backdoor | Robust Training | aaai 24 | [Link](https://arxiv.org/pdf/2208.11435.pdf) |  |
 
 ## Surveys
 ### Survey Paper 2023
