@@ -21,7 +21,7 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 ### Attack Paper 2024
 | Year   | Title |  Attack Type |  Adversarial Knowledge |  Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2024 | **Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images** | High Energy-latency(Availability) | White-box/Black-box | ICLR 2024 | [Link](https://arxiv.org/pdf/2401.11170.pdf) | [[Code]](https://github.com/KuofengGao/Verbose_Images) |
+| 2024 | **Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images** | High Energy-latency(Availability) | White-box/Black-box | ICLR 2024 | [Link](https://arxiv.org/pdf/2401.11170.pdf) | [Code](https://github.com/KuofengGao/Verbose_Images) |
 | 2024 | **Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging** | Misprediction | White-box | Arxiv | [Link](https://arxiv.org/pdf/2401.02565.pdf) | |
 
 <a name="attack-papers-2023" />
