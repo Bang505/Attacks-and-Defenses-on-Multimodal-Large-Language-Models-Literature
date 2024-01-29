@@ -62,6 +62,9 @@ Search keywords like attack/defense type (e.g., ```Jailbreaking```), or adversar
 ### Defense Paper 2024
 | Year   | Title |  Mitigating | Defense Strategy  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+
+| 2024 | **InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance** | Jailbreaking | In-processing (Alignment Technique) | Arxiv | [Link](https://arxiv.org/pdf/2401.11206.pdf) | [Code](https://github.com/Jihuai-wpy/InferAligner) |
+| 2024 | **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** | Copyright Breaches | Pre-processing (Backdoor) | Arxiv | [Link](https://arxiv.org/pdf/2401.04136.pdf) | [Code](https://github.com/haonan3/SilentBadDiffusion) |
 | 2024 | **MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance** | Jailbreaking | Post-processing (Detector) | Arxiv | [Link](https://arxiv.org/pdf/2401.02906.pdf) | [Code](https://github.com/pipilurj/MLLM-protector) |
 
 <a name="defense-papers-2023" />
